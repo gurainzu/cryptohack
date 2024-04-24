@@ -23,3 +23,11 @@ flag = ''.join(chr(num) for num in number)
 print("Here's your flag : ", flag)
 #printing the string (flag)
 ```
+
+<details>
+<summary>and if you run the file, you'll get</summary>
+
+  ```
+Here's your flag :  crypto{ASCII_pr1nt4bl3}
+```
+</details>
