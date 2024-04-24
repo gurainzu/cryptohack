@@ -1,6 +1,7 @@
 # cryptohack
 Just a troll write up. feel free to add and correct the writeup.
 
+![alt text](https://github.com/gurainzu/cryptohack/blob/main/cryptohack.png?raw=true)
 ### A free, fun platform for learning modern cryptography
 #### Learn By Doing
 Learn about modern cryptography by solving a series of interactive puzzles and challenges. Get to know the ciphers and protocols that secure the digital world by breaking them.
