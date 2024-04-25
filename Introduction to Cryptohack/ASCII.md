@@ -9,7 +9,7 @@
 
 Hint : 
 
-In Python, the chr() function can be used to convert an ASCII ordinal number to a character (the ord() function does the opposite).
+> In Python, the chr() function can be used to convert an ASCII ordinal number to a character (the ord() function does the opposite).
 
 In 'Great Snakes' we know we can use chr() to conver an ASCII number into a character like hint says, so we just have to..
 
