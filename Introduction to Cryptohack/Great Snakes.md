@@ -28,7 +28,7 @@ print("".join(chr(o ^ 0x32) for o in ords))
 it says you have to run the python code with python3 to get the flag
 
 <details>
-<summary>and if you run the file, you'll get</summary>
+<summary>and if you run the code, you'll get</summary>
 
   ```
 Here is your flag:
