@@ -25,7 +25,7 @@ print("Here's your flag : ", flag)
 ```
 
 <details>
-<summary>and if you run the file, you'll get</summary>
+<summary>and if you run the code, you'll get</summary>
 
   ```
 Here's your flag :  crypto{ASCII_pr1nt4bl3}
