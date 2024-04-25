@@ -13,7 +13,7 @@ Included below is a flag encoded as a hex string. Decode this back into bytes to
 
 Hint :
 
-In Python, the bytes.fromhex() function can be used to convert hex to bytes. The .hex() instance method can be called on byte strings to get the hex representation.
+>In Python, the bytes.fromhex() function can be used to convert hex to bytes. The .hex() instance method can be called on byte strings to get the hex representation.
 
 In this course we will learn about converting hex to character, from the hint we know we can use bytes.fromhex() function to convert the hex, so the solve should be like...
 
